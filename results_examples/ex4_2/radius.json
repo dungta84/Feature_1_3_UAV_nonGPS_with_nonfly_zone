@@ -1,0 +1,15 @@
+{
+  "R_m": 5.827038768413443,
+  "R_px": 14.25,
+  "min_dist_m": 6.133725019382571,
+  "witness_pair": [
+    1,
+    2
+  ],
+  "polygon_stats": {
+    "buildings": 12
+  },
+  "segmentation": "hsv",
+  "descriptor_vertices": "extreme",
+  "R_auto_m": 5.827038768413443
+}

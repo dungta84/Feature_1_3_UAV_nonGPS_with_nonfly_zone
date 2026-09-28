@@ -1,0 +1,13 @@
+﻿index,source_object_id,file_name,file_path,crop_x1,crop_y1,crop_x2,crop_y2,crop_w,crop_h,std_w,std_h,poly_area,max_area_object_id,global_extra_ratio,roof_thresh_used,skipped_by_nofly
+1,1,test_01.png,results_examples\ex4_2\aerials\test_01.png,321,564,651,768,330,204,330,204,4871.0,3,0.05,18,0
+2,2,test_02.png,results_examples\ex4_2\aerials\test_02.png,851,564,1181,768,330,204,330,204,3951.0,3,0.05,18,0
+3,3,test_03.png,results_examples\ex4_2\aerials\test_03.png,686,501,1016,705,330,204,330,204,33579.0,3,0.05,18,0
+4,4,test_04.png,results_examples\ex4_2\aerials\test_04.png,0,454,330,658,330,204,330,204,8934.0,3,0.05,18,0
+5,5,test_05.png,results_examples\ex4_2\aerials\test_05.png,1028,493,1358,697,330,204,330,204,11422.0,3,0.05,18,0
+6,6,test_06.png,results_examples\ex4_2\aerials\test_06.png,997,356,1327,560,330,204,330,204,4623.0,3,0.05,18,0
+7,7,test_07.png,results_examples\ex4_2\aerials\test_07.png,34,245,364,449,330,204,330,204,11161.0,3,0.05,18,0
+8,8,test_08.png,results_examples\ex4_2\aerials\test_08.png,823,166,1153,370,330,204,330,204,8588.0,3,0.05,18,0
+9,9,test_09.png,results_examples\ex4_2\aerials\test_09.png,0,153,330,357,330,204,330,204,12090.0,3,0.05,18,0
+10,10,test_10.png,results_examples\ex4_2\aerials\test_10.png,173,125,503,329,330,204,330,204,13893.0,3,0.05,18,0
+11,11,test_11.png,results_examples\ex4_2\aerials\test_11.png,691,80,1021,284,330,204,330,204,17243.0,3,0.05,18,0
+12,12,test_12.png,results_examples\ex4_2\aerials\test_12.png,0,0,330,204,330,204,330,204,6995.0,3,0.05,18,0

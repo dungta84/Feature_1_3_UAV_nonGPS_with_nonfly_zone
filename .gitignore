@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# written by run_examples.py (rebuild with run_examples.bat)
+results_examples/*/references/
+results_examples/*/aerials/*.png
+results_examples/*/aerials/features_grid/
+results_examples/*/test_overview.png
+results_examples/*/log.txt
+results_examples/run_log.txt
+# written by the plot scripts (rebuild with plot_figures.bat)
+results_examples/*/localization/
+results_examples/*/reference_map.*
+results_examples/*/descriptor_*
+results_examples/plot_log.txt

@@ -1,0 +1,5 @@
+﻿zone_id,zone_type,x,y,radius,vertex_order,enabled
+1,polygon,440,200,,0,1
+1,polygon,440,500,,1,1
+1,polygon,740,500,,2,1
+1,polygon,740,200,,3,1

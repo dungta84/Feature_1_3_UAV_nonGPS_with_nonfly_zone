@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+matplotlib
+opencv-python
+shapely>=2.0
